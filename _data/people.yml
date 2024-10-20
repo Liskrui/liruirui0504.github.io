@@ -1,5 +1,7 @@
 git clone https://github.com/liruirui0504.github.io/picture storage.git
-
+git add image.jpg
+git commit -m "Add an image to the repository"
+git push origin main
 
 Miss:
     display_name: "李睿蕊  Ruirui Li"
